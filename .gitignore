@@ -43,3 +43,6 @@ testing/.terraform/
 
 # ignoring provider
 provider.tf
+
+# Terraform related files
+.terraform/
